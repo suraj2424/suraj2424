@@ -1,11 +1,13 @@
-👨‍💻 Suraj Suryawanshi
 
-Building digital experiences with code, coffee, and creativity
+# 👨‍💻 Suraj Suryawanshi
 
+> _Building digital experiences with code, coffee, and creativity_
 
-🚀 About Me
+## 🚀 About Me
+
 Hey there! I'm Suraj, a passionate software developer specializing in full-stack web development with the MERN stack. I love turning complex problems into elegant, efficient solutions through clean code.
 
+```javascript
 const suraj = {
   skills: {
     frontend: ["React", "Next.js", "HTML", "CSS"],
@@ -42,6 +44,7 @@ Advanced Next.js features
 Cloud architecture optimization
 
 Microservice patterns
+
 
 🤝 Let's Connect!
 LinkedIn
