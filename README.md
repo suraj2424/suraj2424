@@ -1,4 +1,4 @@
-"# Hi, I'm Suraj Suryawanshi
+# Hi, I'm Suraj Suryawanshi
 
 **Full Stack Software Engineer | Building reliable web products with clean UI, real-time features, and scalable backend logic**
 
@@ -40,7 +40,6 @@
 |---|---|
 | **Closed-Loop Student Intervention System** | Built a real-time mentor-driven intervention workflow with fail-safe unlocking logic using Node.js, React (Expo Web), SQL, n8n, and Socket.io. |
 | **Coding Challenge Platform Interface** | Designed and delivered an interactive competitive-programming style experience with real-time submission, execution, and evaluation flow. |
-| **Skill Development Platform** | Contributed to blog, landing, home, and practice dashboard pages while integrating frontend and backend features for a smoother learning experience. |
 | **Secure API-Controlled Backend** | Implemented API key-based access control and structured backend routes/controllers to improve security and maintainability. |
 
 ## GitHub Stats
