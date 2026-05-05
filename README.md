@@ -55,8 +55,8 @@ In this project, I explored the limits of local 2B models by orchestrating them 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suraj2424&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Suraj's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj2424&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suraj2424&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj2424&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="170" />
 </p>
 
 ## Let's Connect
