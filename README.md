@@ -61,7 +61,7 @@ In this project, I explored the limits of local 2B models by orchestrating them 
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj2424&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj2424&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=1800"
     alt="Top Languages"
     height="170"
   />
