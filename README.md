@@ -47,57 +47,10 @@ Currently, I'm focused on strengthening my backend and system design skills whil
 ![AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square\&logo=vercel\&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat-square\&logo=zod\&logoColor=white)
 
-## Featured Projects
+## What I'm Currently Learning On
 
-### ✈️ AI Travel Planner
-
-**Next.js · TypeScript · Bun · Express · PostgreSQL · Prisma · Redux Toolkit · RTK Query · JOSE · Zod · AI SDK**
-
-A production-oriented AI-powered travel planning application designed around real-world application architecture.
-
-The project focuses on building a complete travel planning experience with a modern frontend and a structured backend architecture. It includes API-driven communication, authentication and token refresh flows, request validation, database persistence, and scalable domain-driven backend design.
-
-**Key areas I'm building and exploring:**
-
-* Secure authentication using access and refresh tokens
-* JWT verification using JOSE
-* Structured backend architecture with controllers, services, and repositories
-* Request validation with Zod
-* PostgreSQL database design with Prisma ORM
-* API state management with Redux Toolkit and RTK Query
-* AI-powered travel planning workflows using the Vercel AI SDK
-* Production-oriented error handling and API design
-* Scalable architecture for trips, itineraries, conversations, and related travel data
-
-> 🚧 Currently under active development.
-
----
-
-### 🧠 Quizin'
-
-**React · Node.js · Express · MongoDB**
-
-A full-stack quiz application focused on creating and managing interactive quiz experiences.
-
-Built with a MERN-based architecture, the project involved designing frontend interactions, backend APIs, database models, and application logic for managing quizzes and user interactions.
-
----
-
-### 📅 Event Management Platform
-
-**Next.js · TypeScript · PostgreSQL · Prisma**
-
-A full-stack event management application focused on managing events and related user workflows.
-
-The project explores full-stack application development with Next.js, database persistence using PostgreSQL and Prisma, and authentication-driven application flows.
-
-## What I'm Currently Working On
-
-* ✈️ Building an **AI-powered Travel Planner**
-* ⚙️ Improving backend architecture and API design
-* 🔐 Designing secure authentication and token refresh systems
-* 🗄️ Working with PostgreSQL, Prisma, and relational data modeling
-* 🐳 Strengthening Docker and DevOps knowledge
+* ⚙️ Improving backend architecture and system design understanding
+* 🔐 Designing secure AI systems
 * 🧠 Exploring AI SDKs and integrating AI capabilities into production applications
 * ☕ Practicing DSA and strengthening Java fundamentals
 
